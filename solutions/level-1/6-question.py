@@ -7,7 +7,7 @@ import math
 
 def weird_formula():
     D = input("Enter number: ")
-    C = 60
+    C = 50
     H = 30
     nums = D.split(",")
     ls = []
